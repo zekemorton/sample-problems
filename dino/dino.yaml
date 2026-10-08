@@ -1,0 +1,401 @@
+---
+dinosaurs:
+- name: Tyrannosaurus Rex
+  location: North America
+  diet: Carnivore
+  height: 12 ft
+  weight: 9 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Triceratops
+  location: North America
+  diet: Herbivore
+  height: 10 ft
+  weight: 12 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Brachiosaurus
+  location: North America, Africa
+  diet: Herbivore
+  height: 40 ft
+  weight: 56 tons
+  habitat: Land
+  time_period: Late Jurassic
+- name: Pteranodon
+  location: North America
+  diet: Carnivore
+  height: 16 ft (wingspan)
+  weight: 1 ton
+  habitat: Air
+  time_period: Late Cretaceous
+- name: Spinosaurus
+  location: North Africa
+  diet: Carnivore
+  height: 16 ft
+  weight: 7-20 tons
+  habitat: Land/Sea
+  time_period: Late Cretaceous
+- name: Velociraptor
+  location: Asia
+  diet: Carnivore
+  height: 1.6 ft
+  weight: 0.03 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Stegosaurus
+  location: North America, Europe
+  diet: Herbivore
+  height: 9 ft
+  weight: 5 tons
+  habitat: Land
+  time_period: Late Jurassic
+- name: Ankylosaurus
+  location: North America
+  diet: Herbivore
+  height: 5 ft
+  weight: 6 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Diplodocus
+  location: North America
+  diet: Herbivore
+  height: 18 ft
+  weight: 12 tons
+  habitat: Land
+  time_period: Late Jurassic
+- name: Allosaurus
+  location: North America, Europe
+  diet: Carnivore
+  height: 12 ft
+  weight: 2.5 tons
+  habitat: Land
+  time_period: Late Jurassic
+- name: Iguanodon
+  location: Europe, North America
+  diet: Herbivore
+  height: 10 ft
+  weight: 5 tons
+  habitat: Land
+  time_period: Early Cretaceous
+- name: Pachycephalosaurus
+  location: North America
+  diet: Herbivore
+  height: 5 ft
+  weight: 0.45 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Parasaurolophus
+  location: North America
+  diet: Herbivore
+  height: 10 ft
+  weight: 2 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Therizinosaurus
+  location: Asia
+  diet: Herbivore
+  height: 16 ft
+  weight: 5 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Giganotosaurus
+  location: South America
+  diet: Carnivore
+  height: 13 ft
+  weight: 8 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Carcharodontosaurus
+  location: Africa
+  diet: Carnivore
+  height: 13 ft
+  weight: 15 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Ornithomimus
+  location: North America
+  diet: Omnivore
+  height: 8 ft
+  weight: 0.1 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Maiasaura
+  location: North America
+  diet: Herbivore
+  height: 8 ft
+  weight: 2 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Kentrosaurus
+  location: Africa
+  diet: Herbivore
+  height: 6 ft
+  weight: 2 tons
+  habitat: Land
+  time_period: Late Jurassic
+- name: Corythosaurus
+  location: North America
+  diet: Herbivore
+  height: 8 ft
+  weight: 2 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Dreadnoughtus
+  location: South America
+  diet: Herbivore
+  height: 85 ft
+  weight: 65 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Mamenchisaurus
+  location: Asia
+  diet: Herbivore
+  height: 60 ft
+  weight: 30 tons
+  habitat: Land
+  time_period: Late Jurassic
+- name: Sauropelta
+  location: North America
+  diet: Herbivore
+  height: 6 ft
+  weight: 1 ton
+  habitat: Land
+  time_period: Early Cretaceous
+- name: Gigantoraptor
+  location: Asia
+  diet: Omnivore
+  height: 16 ft
+  weight: 1.5 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Plesiosaurus
+  location: Sea
+  diet: Carnivore
+  height: 10 ft
+  weight: 2 tons
+  habitat: Sea
+  time_period: Late Cretaceous
+- name: Mosasaurus
+  location: Sea
+  diet: Carnivore
+  height: 16 ft
+  weight: 15 tons
+  habitat: Sea
+  time_period: Late Cretaceous
+- name: Deinonychus
+  location: North America
+  diet: Carnivore
+  height: 5 ft
+  weight: 0.1 tons
+  habitat: Land
+  time_period: Early Cretaceous
+- name: Styracosaurus
+  location: North America
+  diet: Herbivore
+  height: 6 ft
+  weight: 3 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Pachyrhinosaurus
+  location: North America
+  diet: Herbivore
+  height: 8 ft
+  weight: 2 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Theropoda
+  location: Various
+  diet: Carnivore
+  height: Varies
+  weight: Varies
+  habitat: Land
+  time_period: Various
+- name: Saurophaganax
+  location: North America
+  diet: Carnivore
+  height: 15 ft
+  weight: 8 tons
+  habitat: Land
+  time_period: Late Jurassic
+- name: Rhabdodon
+  location: Europe
+  diet: Herbivore
+  height: 6 ft
+  weight: 0.5 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Eoraptor
+  location: South America
+  diet: Omnivore
+  height: 3 ft
+  weight: 0.01 tons
+  habitat: Land
+  time_period: Late Triassic
+- name: Dromaeosaurus
+  location: North America
+  diet: Carnivore
+  height: 6 ft
+  weight: 0.2 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Choyrodon
+  location: Asia
+  diet: Herbivore
+  height: 5 ft
+  weight: 0.5 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Baryonyx
+  location: Europe
+  diet: Carnivore
+  height: 10 ft
+  weight: 1.5 tons
+  habitat: Land/Sea
+  time_period: Early Cretaceous
+- name: Irritator
+  location: South America
+  diet: Carnivore
+  height: 20 ft
+  weight: 1.5 tons
+  habitat: Land/Sea
+  time_period: Early Cretaceous
+- name: Saurornithoides
+  location: North America
+  diet: Carnivore
+  height: 5 ft
+  weight: 0.1 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Troodon
+  location: North America
+  diet: Omnivore
+  height: 2 ft
+  weight: 0.1 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Gigantosaurus
+  location: South America
+  diet: Carnivore
+  height: 13 ft
+  weight: 8 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Nodosaurus
+  location: North America
+  diet: Herbivore
+  height: 6 ft
+  weight: 1.5 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Eotrachodon
+  location: North America
+  diet: Herbivore
+  height: 10 ft
+  weight: 2 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Astrodon
+  location: North America
+  diet: Herbivore
+  height: 15 ft
+  weight: 10 tons
+  habitat: Land
+  time_period: Early Cretaceous
+- name: Hypsilophodon
+  location: Europe
+  diet: Herbivore
+  height: 3 ft
+  weight: 0.1 tons
+  habitat: Land
+  time_period: Early Cretaceous
+- name: Carcharodontosaurus
+  location: Africa
+  diet: Carnivore
+  height: 13 ft
+  weight: 15 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Pachycephalosaurus
+  location: North America
+  diet: Herbivore
+  height: 5 ft
+  weight: 0.45 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Dromaeosaurus
+  location: North America
+  diet: Carnivore
+  height: 6 ft
+  weight: 0.2 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Choyrodon
+  location: Asia
+  diet: Herbivore
+  height: 5 ft
+  weight: 0.5 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Baryonyx
+  location: Europe
+  diet: Carnivore
+  height: 10 ft
+  weight: 1.5 tons
+  habitat: Land/Sea
+  time_period: Early Cretaceous
+- name: Irritator
+  location: South America
+  diet: Carnivore
+  height: 20 ft
+  weight: 1.5 tons
+  habitat: Land/Sea
+  time_period: Early Cretaceous
+- name: Saurornithoides
+  location: North America
+  diet: Carnivore
+  height: 5 ft
+  weight: 0.1 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Troodon
+  location: North America
+  diet: Omnivore
+  height: 2 ft
+  weight: 0.1 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Gigantosaurus
+  location: South America
+  diet: Carnivore
+  height: 13 ft
+  weight: 8 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Nodosaurus
+  location: North America
+  diet: Herbivore
+  height: 6 ft
+  weight: 1.5 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Eotrachodon
+  location: North America
+  diet: Herbivore
+  height: 10 ft
+  weight: 2 tons
+  habitat: Land
+  time_period: Late Cretaceous
+- name: Astrodon
+  location: North America
+  diet: Herbivore
+  height: 15 ft
+  weight: 10 tons
+  habitat: Land
+  time_period: Early Cretaceous
+- name: Hypsilophodon
+  location: Europe
+  diet: Herbivore
+  height: 3 ft
+  weight: 0.1 tons
+  habitat: Land
+  time_period: Early Cretaceous
